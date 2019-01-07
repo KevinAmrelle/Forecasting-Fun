@@ -3,7 +3,7 @@
 
 
 
-#                                                               Singapore: Labor Force Participation Rate Forecast
+#                                               Singapore: Labor Force Participation Rate Forecast
 
 
 #####################################################################################################################################################################################
